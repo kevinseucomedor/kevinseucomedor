@@ -3,5 +3,5 @@
 
 ### Caso queira entrar em contanto procure por @kevin.victor_1
 
-**Sou estudante de um colegio civico militar e estou aprendendo no curso alura e scraht
+**Sou estudante de um colegio civico militar e estou aprendendo no curso alura e scratch**
 
